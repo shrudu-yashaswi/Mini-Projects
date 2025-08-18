@@ -18,7 +18,7 @@ This repository is organized into separate folders for easy navigation and learn
 ```bash
 cd AI-Chatbot
 python chatbot.py
----
+
 
 ### 2. 🌦 Weather-App
 - A Python app to fetch live weather information.
