@@ -18,3 +18,14 @@ This repository is organized into separate folders for easy navigation and learn
 ```bash
 cd AI-Chatbot
 python chatbot.py
+---
+
+### 2. 🌦 Weather-App
+- A Python app to fetch live weather information.
+- Uses the *OpenWeatherMap API*.
+- Demonstrates working with *APIs* and *JSON* in Python.
+
+*How to Run*
+```bash
+cd Weather-App
+python weather.py
